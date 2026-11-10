@@ -46,9 +46,35 @@ Config.VehicleSpawn = {
         --     Colors = { Enabled = true, Primary = 111, Secondary = 0 },
         --     Extras = { Enabled = true, [1] = true, [2] = false }
         -- },
+        -- comet = {
+        --     Colors = { Enabled = true, Primary = 12, Secondary = 111 }
+        -- },
+        -- mesa = {
+        --     Extras = { Enabled = true, [1] = true, [2] = true, [3] = false }
+        -- },
         -- police = {
         --     Livery = { Enabled = true, Mode = 'native', Index = 0 },
         --     Performance = { Enabled = true, Engine = 3, Brakes = 2, Transmission = 2, Armor = 3 }
+        -- },
+        -- sheriff = {
+        --     Aliases = { 'sheriff2' },
+        --     Livery = { Enabled = true, Mode = 'mod', Index = 1 }
+        -- },
+        -- ambulance = {
+        --     Livery = { Enabled = true, Mode = 'mod', Index = 2 }
+        -- },
+        -- Branded-style examples use built-in GTA model names; adjust colors and mods per vehicle.
+        -- elegy = {
+        --     Colors = { Enabled = true, Primary = 0, Secondary = 111 },
+        --     Performance = { Enabled = true, Engine = 3, Brakes = 2, Transmission = 2, Turbo = true }
+        -- },
+        -- buffalo = {
+        --     Colors = { Enabled = true, Primary = 27, Secondary = 0 },
+        --     Performance = { Enabled = true, Engine = 2, Brakes = 2, Transmission = 2 }
+        -- },
+        -- dominator = {
+        --     Colors = { Enabled = true, Primary = 28, Secondary = 0 },
+        --     Performance = { Enabled = true, Engine = 3, Brakes = 3, Transmission = 2, Turbo = true }
         -- }
     }
 }
